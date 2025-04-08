@@ -1,2 +1,6 @@
 # ESPresence-plugin
 Plugin pour archifacile.fr permettant un export vers ESPresense
+
+## Utilisation
+
+https://www.archifacile.fr/planenligne
